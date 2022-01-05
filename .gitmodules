@@ -1,0 +1,6 @@
+[submodule "eigen"]
+	path = eigen3
+	url = https://gitlab.com/libeigen/eigen
+[submodule "eigen3"]
+	path = eigen3
+	url = https://gitlab.com/libeigen/eigen
