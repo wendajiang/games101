@@ -1,7 +1,7 @@
 ## GAMES101
-[官网](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
-[bilibili](https://www.bilibili.com/video/av90798049)
-[作业](http://games-cn.org/forums/topic/allhw/)
+- [官网](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+- [bilibili](https://www.bilibili.com/video/av90798049)
+- [作业](http://games-cn.org/forums/topic/allhw/)
 
 ```
 games101
