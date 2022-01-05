@@ -6,4 +6,3 @@ set(CMAKE_CXX_STANDARD 14)
 add_subdirectory(eigen3)
 add_subdirectory(pa0)
 
-add_executable(games101 main.cpp)
